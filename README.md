@@ -2,7 +2,7 @@
 
 ## Architecture Decisions
 
-###Folder Structure:
+### Folder Structure:
 ```
 -lib/
   helpers/
